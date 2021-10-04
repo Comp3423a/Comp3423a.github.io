@@ -1,0 +1,70 @@
+body {
+    background-image: url("field-gddcfe03fd_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+#sun{
+    position: absolute;
+    left: 20px;
+}
+
+#cloud{
+    position: absolute;
+	left: 700px;
+	bottom : 700px;
+	}
+
+#bird{
+    position: absolute;
+    left: 1100px;
+    bottom : 600px;
+}
+
+#bee{
+    position: absolute;
+    left :  1000px;
+    bottom : 450px;
+}
+
+#bird2{
+    position: absolute;
+    left :  150px;
+    bottom : 450px;
+}
+
+#table{
+    position: absolute;
+    left :  550px;
+    bottom : 420px;
+    background-color: #bbe5e5;
+    border: none;
+    color: white;
+    padding: 30px 43.5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#testtable{
+
+    background-color: #f1c59c;
+    border: none;
+    color: white;
+    padding: 30px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left :  550px;
+    bottom : 500px;
+}
+
+
+
